@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">PRACTICAPARCIAL</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_listado">Jugadores</string>
+    <string name="menu_equipo">Equipo</string>
+    <string name="menu_rendimiento">Rendimiento</string>
+    <string name="valtvLogin">SIGN IN</string>
+    <string name="valbtlogin">Login</string>
+    <string name="valptuser">Enter email</string>
+    <string name="valptpassword">Enter password</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="valptrendimiento">RENDIMIENTO</string>
+    <string name="valptkilometros">Kilometros recorridos</string>
+    <string name="valptminutos">Minutos jugados</string>
+    <string name="valbtncalcular">CALCULAR\n</string>
+    <string name="valtvrendimientoresultado">El resultado es:</string>
+
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/navPlayersFragment">
+    <fragment
+        android:id="@+id/navEquipoFragment"
+        android:name="dem.rodcab.practicaparcial.ui.equipos.equiposFragment"
+        android:label="EQUIPOS"
+        tools:layout="@layout/fragment_equipos" />
+    <fragment
+        android:id="@+id/navPlayersFragment"
+        android:name="dem.rodcab.practicaparcial.ui.players.playersFragment"
+        android:label="JUGADORES"
+        tools:layout="@layout/fragment_players" />
+    <fragment
+        android:id="@+id/navRendimientoFragment"
+        android:name="dem.rodcab.practicaparcial.ui.rendimiento.rendimientoFragment"
+        android:label="RENDIMIENTO"
+        tools:layout="@layout/fragment_rendimiento" />
+</navigation>
